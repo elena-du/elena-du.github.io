@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Lena Dubov's Blog
-tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+tagline:             make the World better with data 
+url:                 http://elena-du.github.io
 paginate:            2
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Elena Dubova
+  url:               https://dubova.net
+  email:             elena@dubova.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/elena-du
 
 # Gems
 gems:
