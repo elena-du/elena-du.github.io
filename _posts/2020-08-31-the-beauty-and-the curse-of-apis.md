@@ -7,6 +7,6 @@ Before pivoting to data science I was working a lot with startups, developers an
 
 > **An enthusiast**: "What is actually an API exactly?" <br>
 > **Wikipedia**: "An application programming interface (API) is a computing interface which defines interactions between multiple software intermediaries." <br>
-> **An enthusiast**: "Right..."*(keeps smiling and abandons dreams to study data science)*
+> **An enthusiast**: "Right..."*(keeps smiling and gives up on understanding IT)*
 
 *This is a live blog, while I am finishing the post , check out [my data science projects on GitHub](https://github.com/elena-du).*
